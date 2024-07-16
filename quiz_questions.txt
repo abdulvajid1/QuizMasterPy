@@ -1,0 +1,34 @@
+1)What is the capital of France?
+1A) London
+1B) Berlin
+1C) Paris
+1D) Rome
+ans1:Paris
+
+2)What is 2 + 2?
+2A) 3
+2B) 4
+2C) 5
+2D) 6
+ans2:4
+
+3)What is the largest planet in our solar system?
+3A) Earth
+3B) Mars
+3C) Jupiter
+3D) Saturn
+ans3:Jupiter
+
+4)What is the chemical symbol for water?
+4A) O2
+4B) H2O
+4C) CO2
+4D) H2
+ans4:H2O
+
+5)Who wrote 'Romeo and Juliet'?
+5A) Charles Dickens
+5B) William Shakespeare
+5C) Mark Twain
+5D) Jane Austen
+ans5:William Shakespeare
